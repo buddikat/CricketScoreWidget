@@ -33,7 +33,7 @@ public class FrmMainUIPanel extends javax.swing.JFrame {
         setPreferredSize(new java.awt.Dimension(60, 30));
         setSize(new java.awt.Dimension(200, 200));
 
-        jLabel1.setText("jLabel1");
+        jLabel1.setText("0/0");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
